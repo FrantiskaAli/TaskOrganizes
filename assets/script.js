@@ -49,7 +49,7 @@ for(let y = 0; y < 9; y++){
     listOfTasks.children().eq(y).on('click', '.btn',function(){
     let taskValue = listOfTasks.children().eq(y).children('.content').html()
     localStorage.setItem(y, taskValue )
-    
+    alert('Your task was saved! :)')
     })
 //listOfTasks.children().eq(y).children('.content').val()
 }
