@@ -13,7 +13,7 @@ While working on this challenge I :
 ## Usage
 This daily office hour organizer is designed to organize one work day at a time.
 It has color coding to show if the office hour passed , is right now or is gonna happend. Contains live clock in the header. User can put input to each hour of the office day. Tasks can be separately saved on local storage upon clicking the save button, however they are cleared by the second day.
-## ScreenShot
-![screenshot](path) you can see how my Tasks Organizer looks overall.
+## Screenshot
+![screenshot](./assets/images/screenshot.jpg) you can see how my Tasks Organizer looks overall.
 ## Link
-[HERE](link) you can visit my deployed application.
+[HERE](https://frantiskaali.github.io/TasksOrganizer/) you can visit my deployed application.
